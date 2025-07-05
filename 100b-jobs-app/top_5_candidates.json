@@ -1,0 +1,463 @@
+[
+  {
+    "name": "Energetic Goat",
+    "email": "energetic-goat@example.com",
+    "phone": "14025172306",
+    "location": "Leander",
+    "submitted_at": "2025-01-28 11:47:24.000000",
+    "work_availability": [
+      "full-time",
+      "part-time"
+    ],
+    "annual_salary_expectation": {
+      "full-time": "$119318"
+    },
+    "work_experiences": [
+      {
+        "company": "VMware",
+        "roleName": "Senior Software Engineer"
+      },
+      {
+        "company": "Visa",
+        "roleName": "Senior Software Engineer"
+      },
+      {
+        "company": "ComScore",
+        "roleName": "Software Engineer"
+      },
+      {
+        "company": "Genpact",
+        "roleName": "Software Engineer"
+      }
+    ],
+    "education": {
+      "highest_level": "Master's Degree",
+      "degrees": [
+        {
+          "degree": "Master's Degree",
+          "subject": "Computer Science",
+          "school": "State Universities",
+          "gpa": "GPA 3.5-3.9",
+          "startDate": "2014",
+          "endDate": "2016",
+          "originalSchool": "George Mason University",
+          "isTop50": false
+        },
+        {
+          "degree": "Bachelor's Degree",
+          "subject": "Computer Science",
+          "school": "International Institutions",
+          "gpa": "GPA 3.5-3.9",
+          "startDate": "2007",
+          "endDate": "2011",
+          "originalSchool": "Guru Nanak Dev University",
+          "isTop50": false
+        }
+      ]
+    },
+    "skills": [
+      "SQL",
+      "JavaScript",
+      "GitLab CI",
+      "Redis",
+      "C#",
+      "XML",
+      "C++",
+      "PHP",
+      "HTML/CSS",
+      "Java",
+      "GoLang",
+      "Python",
+      "Angular"
+    ],
+    "score": 78.55,
+    "reasons": [
+      "Skills matched: GitLab CI, SQL, Python",
+      "4 relevant software roles",
+      "Master\u2019s degree",
+      "Salary expectation: $119,318",
+      "Available full-time",
+      "Location adds diversity: Leander"
+    ]
+  },
+  {
+    "name": "Fearless Xerus",
+    "email": "fearless-xerus@example.com",
+    "phone": "201096247090",
+    "location": "Egypt",
+    "submitted_at": "2025-01-29 03:38:10.000000",
+    "work_availability": [
+      "full-time",
+      "part-time"
+    ],
+    "annual_salary_expectation": {
+      "full-time": "$140809"
+    },
+    "work_experiences": [
+      {
+        "company": "Naseej",
+        "roleName": "Senior Software Engineer"
+      },
+      {
+        "company": "Axentor",
+        "roleName": "Software Engineer"
+      },
+      {
+        "company": "Effective Value Solutions",
+        "roleName": "Software Engineer"
+      },
+      {
+        "company": "Almobarmig",
+        "roleName": "Software Developer Intern"
+      }
+    ],
+    "education": {
+      "highest_level": "Bachelor's Degree",
+      "degrees": [
+        {
+          "degree": "Bachelor's Degree",
+          "subject": "Computer Science",
+          "school": "International Institutions",
+          "gpa": "GPA 3.0-3.4",
+          "startDate": "2018",
+          "endDate": "2023",
+          "originalSchool": "Zagazig University",
+          "isTop50": false
+        }
+      ]
+    },
+    "skills": [
+      "JavaScript",
+      "Java",
+      "Large Language Models (LLMs)",
+      "SQL",
+      "Machine Learning",
+      "Django",
+      "NLP",
+      "Python"
+    ],
+    "score": 71.94,
+    "reasons": [
+      "Skills matched: Large Language Models (LLMs), SQL, Python",
+      "4 relevant software roles",
+      "Bachelor\u2019s degree",
+      "Salary expectation: $140,809",
+      "Available full-time",
+      "Location adds diversity: Egypt"
+    ]
+  },
+  {
+    "name": "Vibrant",
+    "email": "vibrant-koala@example.com",
+    "phone": "31299171575437",
+    "location": "The Randstad",
+    "submitted_at": "2025-01-28 21:25:12.000000",
+    "work_availability": [
+      "full-time",
+      "part-time"
+    ],
+    "annual_salary_expectation": {
+      "full-time": "$126567"
+    },
+    "work_experiences": [
+      {
+        "company": "Ortec Finance",
+        "roleName": "Software Developer"
+      },
+      {
+        "company": "insightsoftware",
+        "roleName": "Lead Software Engineer"
+      },
+      {
+        "company": "GrandVision BV",
+        "roleName": "Software Engineer"
+      },
+      {
+        "company": "Ada Tech",
+        "roleName": "Software Engineer"
+      },
+      {
+        "company": "Yara Brasil",
+        "roleName": "Software Engineer"
+      },
+      {
+        "company": "Berkana Patrim\u00f4nio",
+        "roleName": "Software Engineer"
+      },
+      {
+        "company": "Boi na Linha",
+        "roleName": "Lead Software Engineer"
+      },
+      {
+        "company": "Ulend",
+        "roleName": "Lead Software Engineer"
+      },
+      {
+        "company": "Ocatec",
+        "roleName": "Consultant"
+      }
+    ],
+    "education": {
+      "highest_level": "Bachelor's Degree",
+      "degrees": [
+        {
+          "degree": "Bachelor's Degree",
+          "subject": "Physics",
+          "school": "International Institutions",
+          "gpa": "GPA 3.0-3.4",
+          "startDate": "2018",
+          "endDate": "2021",
+          "originalSchool": "Universidade de S\u00e3o Paulo",
+          "isTop50": true
+        },
+        {
+          "degree": "Associate's Degree",
+          "subject": "Information Technology",
+          "school": "International Institutions",
+          "gpa": "GPA 3.0-3.4",
+          "startDate": "2015",
+          "endDate": "2017",
+          "originalSchool": "Instituto Federal de S\u00e3o Paulo",
+          "isTop50": false
+        }
+      ]
+    },
+    "skills": [
+      "REST APIs",
+      "React",
+      "gRPC",
+      "Java",
+      "PostgreSQL",
+      "Agile",
+      "GraphQL",
+      "SQL",
+      "JavaScript",
+      "GDPR Compliance",
+      "C#",
+      "Jenkins",
+      "TypeScript",
+      "Microservices",
+      "Vue JS",
+      "Kubernetes",
+      "CircleCI",
+      "Azure",
+      "Docker",
+      "HTML/CSS",
+      "Python",
+      "Google Cloud Platform",
+      "Cypress",
+      "Flutter",
+      "Angular",
+      "Kotlin",
+      "Terraform",
+      "PHP",
+      "Node JS"
+    ],
+    "score": 70.51,
+    "reasons": [
+      "Skills matched: SQL, Python",
+      "8 relevant software roles",
+      "Bachelor\u2019s degree",
+      "Salary expectation: $126,567",
+      "Available full-time",
+      "Location adds diversity: The Randstad"
+    ]
+  },
+  {
+    "name": "Spirited Buffalo",
+    "email": "spirited-buffalo@example.com",
+    "phone": "512978284719",
+    "location": "Tacna",
+    "submitted_at": "2025-01-28 16:15:01.000000",
+    "work_availability": [
+      "full-time",
+      "part-time"
+    ],
+    "annual_salary_expectation": {
+      "full-time": "$142008"
+    },
+    "work_experiences": [
+      {
+        "company": "Ebury",
+        "roleName": "Senior Software Engineer"
+      },
+      {
+        "company": "Globant",
+        "roleName": "Senior Software Engineer"
+      },
+      {
+        "company": "PagoEfectivo",
+        "roleName": "Senior Software Engineer"
+      },
+      {
+        "company": "IPsoft",
+        "roleName": "Software Engineer"
+      },
+      {
+        "company": "Grupo La Rep\u00fablica",
+        "roleName": "Cloud Engineer"
+      },
+      {
+        "company": "Monsoon",
+        "roleName": "Senior Software Engineer"
+      },
+      {
+        "company": "Avantica Technologies",
+        "roleName": "Senior Software Engineer"
+      },
+      {
+        "company": "PrenSmart",
+        "roleName": "Software Developer"
+      },
+      {
+        "company": "Axcess Financial",
+        "roleName": "Senior Software Engineer"
+      }
+    ],
+    "education": {
+      "highest_level": "Bachelor's Degree",
+      "degrees": [
+        {
+          "degree": "Bachelor's Degree",
+          "subject": "Operations Research",
+          "school": "International Institutions",
+          "gpa": "GPA 3.0-3.4",
+          "startDate": "2009",
+          "endDate": "2011",
+          "originalSchool": "Universidad Peruana de Ciencias Aplicadas",
+          "isTop50": false
+        },
+        {
+          "degree": "Bachelor's Degree",
+          "subject": "English",
+          "school": "International Institutions",
+          "gpa": "GPA 3.0-3.4",
+          "startDate": "2002",
+          "endDate": "2011",
+          "originalSchool": "Universidad San Mart\u00edn de Porres",
+          "isTop50": false
+        },
+        {
+          "degree": "Associate's Degree",
+          "subject": "Information Technology",
+          "school": "International Institutions",
+          "gpa": "GPA 3.0-3.4",
+          "startDate": "2002",
+          "endDate": "2005",
+          "originalSchool": "I.S.T Norbert Wiener",
+          "isTop50": false
+        }
+      ]
+    },
+    "skills": [
+      "Node JS",
+      "REST APIs",
+      "C#",
+      "SQL",
+      "Kubernetes",
+      "Kibana",
+      "Ansible",
+      "GraphQL",
+      "Amazon Web Services",
+      "Prometheus",
+      "Docker",
+      "Python"
+    ],
+    "score": 69.35,
+    "reasons": [
+      "Skills matched: SQL, Python",
+      "9 relevant software roles",
+      "Bachelor\u2019s degree",
+      "Salary expectation: $142,008",
+      "Available full-time",
+      "Location adds diversity: Tacna"
+    ]
+  },
+  {
+    "name": "Quick Dog",
+    "email": "quick-dog@example.com",
+    "phone": "15146774173",
+    "location": "Brossard",
+    "submitted_at": "2025-01-29 03:51:25.000000",
+    "work_availability": [
+      "full-time",
+      "part-time"
+    ],
+    "annual_salary_expectation": {
+      "full-time": "$122562"
+    },
+    "work_experiences": [
+      {
+        "company": "Stoovo",
+        "roleName": "Lead Software Engineer"
+      },
+      {
+        "company": "Onfleet",
+        "roleName": "Senior Software Engineer"
+      },
+      {
+        "company": "ScotiaBank",
+        "roleName": "Software Developer"
+      },
+      {
+        "company": "TouchTunes Interactive Networks",
+        "roleName": "Software Developer"
+      },
+      {
+        "company": "Instant Financial",
+        "roleName": "Software Developer"
+      },
+      {
+        "company": "Houghton Mifflin Harcourt",
+        "roleName": "Software Developer"
+      },
+      {
+        "company": "Evertz Microsystems",
+        "roleName": "Automation Engineer"
+      }
+    ],
+    "education": {
+      "highest_level": "Master's Degree",
+      "degrees": [
+        {
+          "degree": "Master's Degree",
+          "subject": "",
+          "school": "International Institutions",
+          "gpa": "GPA 3.5-3.9",
+          "startDate": "",
+          "endDate": "2014",
+          "originalSchool": "Concordia University",
+          "isTop50": false
+        }
+      ]
+    },
+    "skills": [
+      "Microservices",
+      "JavaScript",
+      "REST APIs",
+      "Amazon Web Services",
+      "Jest",
+      "MongoDB",
+      "React Native",
+      "React",
+      "Express",
+      "Jenkins",
+      "Java",
+      "Python",
+      "Elasticsearch",
+      "Mocha",
+      "Node JS",
+      "Kafka",
+      "TypeScript"
+    ],
+    "score": 68.31,
+    "reasons": [
+      "Skills matched: Python",
+      "7 relevant software roles",
+      "Master\u2019s degree",
+      "Salary expectation: $122,562",
+      "Available full-time",
+      "Location adds diversity: Brossard"
+    ]
+  }
+]
